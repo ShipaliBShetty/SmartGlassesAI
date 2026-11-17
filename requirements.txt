@@ -1,0 +1,9 @@
+opencv-python
+numpy
+insightface
+onnxruntime
+mediapipe
+deepface
+pyttsx3
+SpeechRecognition
+Pillow
